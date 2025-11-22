@@ -108,7 +108,6 @@ recording-manager/
 ├── requirements.txt        # Python依赖
 ├── ico/                    # 图标文件
 ├── dist/                   # 可执行文件（打包后）
-├── 启动程序.bat           # 启动脚本
 └── README.md              # 项目说明
 ```
 
@@ -152,15 +151,15 @@ recording-manager/
 
 ## 🙋‍♂️ 联系我们
 
-- 项目维护者: [Your Name]
-- 项目主页: https://github.com/your-username/recording-manager
+- 项目维护者: Haiso168
+- 项目主页: [https://github.com/Haiso168/recording-manager](https://github.com/Haiso168/Recording-Manager)
 - 问题反馈: [创建Issue](https://github.com/your-username/recording-manager/issues)
 
 ## 📊 版本历史
 
 详细的版本更新记录请查看 [CHANGELOG.md](CHANGELOG.md)
 
-### v1.0.0 (2024-11-XX)
+### v1.0.0 (2025-11-22)
 - ✅ 初始版本发布
 - ✅ 支持批量导入和智能分类
 - ✅ 内置音频播放器
@@ -173,5 +172,6 @@ recording-manager/
 **如果这个项目对你有帮助，请给它一个 ⭐ Star！**
 
 Made with ❤️ by [Your Name]
+
 
 </div>
