@@ -1,0 +1,5 @@
+PyQt5==5.15.9
+mutagen==1.46.0
+vobject==0.9.6.1
+pydub==0.25.1
+requests==2.31.0
